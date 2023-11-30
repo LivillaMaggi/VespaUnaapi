@@ -7,13 +7,33 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Corsi
-    weight: 20
-    identifier: corso
-  - name: Corso introduttivo a R
-    PageRef: course/corso-intro-r/_index.md
+  # - name: Corsi
+  #   weight: 20
+  #   identifier: corso
+  - name: Regioni
+    PageRef: course/regioni/_index.md
+    weight: 12
+    parent: Sezioni
+  - name: Modelli
+    PageRef: course/modelli/_index.md
+    weight: 11
+    parent: Sezioni
+  - name: Carta
+    PageRef: course/carta/_index.md
     weight: 10
-    parent: corso
+    parent: Sezioni
+  - name: Consulenze
+    PageRef: course/consulenze/_index.md
+    weight: 13
+    parent: Sezioni
+  - name: Formazione
+    PageRef: course/formazione/_index.md
+    weight: 14
+    parent: Sezioni
+  - name: Segnalare
+    PageRef: course/segnalare/_index.md
+    weight: 15
+    parent: Sezioni
   # - name: Materiale
   #   PageRef: course/materiale/_index.md
   #   weight: 20

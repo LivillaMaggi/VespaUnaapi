@@ -1,12 +1,12 @@
+
 ---
 banner:
   caption: ""
   image: ""
 tags:
 - preface
-title: "\U0001F4DA Corsi"
+title: "Sezioni"
 type: page
 view: compact
 ---
 
-Materiale riguardante i corsi

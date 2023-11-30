@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-title: Corso introduttivo a R per i tecnici apistici Unaapi
-hero_media: Rlogo.png
+title: Monitoraggio Vespa velutina
+hero_media: vespa.jpg
 design:
   background:
     gradient_angle: 0
@@ -26,7 +26,6 @@ advanced:
 
 <br>
 
-Sito di supporto alla didattica del corso su [R](https://cran.r-project.org/) per tecnici apistici promosso da Unaapi.
-In questo sito troverete materiale didattico, istruzioni per seguire i tutorial e articoli di spiegazione.
+Sito in costruzione.
 
 
