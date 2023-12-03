@@ -1,3 +1,2 @@
-# corsoRunaapi
-Pagina web di appoggio al corso di R per tecnici Unaapi.<br>
-<https://uvesco.github.io/corsoRunaapi/>
+# Sito CRT Monitoraggio Vespa velutina
+Pagine web che raccolgono le attività su Vespa velutina del CRT Unaapi e associate
