@@ -1,6 +1,6 @@
 ---
 date: "2023-05-11"
-linkTitle: Formazione
+linkTitle: formazione
 summary: 
 tags:
 - current
