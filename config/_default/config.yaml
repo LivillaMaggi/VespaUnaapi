@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Monitoraggio Unaapi Vespa velutina' # Website name
-baseURL: 'https://LivillaMaggi.github.io/VespaUnaapi' # Website URL
+baseURL: 'https://LivillaMaggi.github.io/VespaUnaapi' # Website URL 
 
 ############################
 ## PAGE OPTIONS
