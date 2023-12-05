@@ -27,6 +27,3 @@ weight: 10
 widget: contact
 ---
 # 
-# Per la comunicazione abbiamo predisposto una mailing list Google su cui scrivere per scambiare aiuto, condividere materiali e per le comunicazioni di servizio.<br>
-# E' anche disponibile il forum collegato al codice sorgente di questo sito per la condivisione di materiali di interesse collettivo.<br>
-# A seguire i links
