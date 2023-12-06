@@ -6,7 +6,7 @@ content:
   - icon: comments
     icon_pack: fas
     link: mailto:livilla.maggi@apilombardia.it
-    name: Email responsabile
+    name: Email Livilla Maggi
   # - icon: comments
   #   icon_pack: fas
   #   link: https://github.com/uvesco/corsoRunaapi/discussions
