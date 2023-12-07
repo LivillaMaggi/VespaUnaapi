@@ -1,5 +1,5 @@
 ---
-bio: Utilizza R dal 2001, attualmente lo utilizza per analisi statistiche, analisi spaziali, per l’editing di testi (RMarkdown), l’interfaccia con siti web (RSelenium) e lo sviluppo di applicazioni Shiny. Dal 2012 collabora con Unaapi.
+bio: Ha sviluppato modelli di idoneità ambientale a Phlebotomus perniciosus e alla zecca Hamblyomma cajennense. Si occupa di apicoltura dal 2012 collaborando con Unaapi e associazioni della rete. Si occupa anche di prevenzione dei danni da grandi carnivori.
 education:
   courses:
   - course: Specialista in Sanità Animale
@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: Unaapi
   url: "https://unaapi.it/"
-role: Docente corso R
+role: Collaboratore all'analisi dati, webmaster
 social:
 - icon: facebook
   icon_pack: fab
@@ -38,4 +38,4 @@ user_groups:
 - Teachers
 ---
 
-Utilizza R dal 2001, attualmente lo utilizza per analisi statistiche, analisi spaziali, per l’editing di testi (RMarkdown), l’interfaccia con siti web (RSelenium) e lo sviluppo di applicazioni Shiny. Dal 2012 collabora con Unaapi.
+Ha sviluppato modelli di idoneità ambientale a Phlebotomus perniciosus e alla zecca Hamblyomma cajennense. Si occupa di apicoltura dal 2012 collaborando con Unaapi e associazioni della rete. Si occupa anche di prevenzione dei danni da grandi carnivori.
