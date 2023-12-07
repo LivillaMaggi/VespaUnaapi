@@ -1,7 +1,7 @@
 ---
 authors:
 - Livilla Maggi
-bio:  Tecnico Apistico Apilombardia, referente per gli avvelenamenti da pesticidi in apicoltura e responsabile delle analisi statistiche degli apiari sperimentali Apilombardia.
+bio:  Tecnico Apistico Apilombardia, referente Vespa velutina e per gli avvelenamenti da pesticidi in apicoltura, responsabile delle analisi statistiche degli apiari sperimentali Apilombardia.
 education:
   courses:
   - course: Laurea in Scienze Naturali
@@ -17,7 +17,7 @@ interests:
 organizations:
 - name: Apilombardia
   url: "https://www.apilombardia.it/"
-role: Docente corso R
+role: Responsabile sito
 social:
 # - icon: envelope
 #   icon_pack: fas
@@ -27,7 +27,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: github
   icon_pack: fab
-  link: https://github.com/livi2023
+  link: https://github.com/LivillaMaggi
 superuser: true
 title: Livilla Maggi
 user_groups:
